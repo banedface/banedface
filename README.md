@@ -1,4 +1,4 @@
-[![Header](https://github.com/banedface/banedface/blob/main/assets/photo_2023-02-24_22-31-37.jpg)](https://t.me/beingf) 
+<a align="center">[![Header](https://github.com/banedface/banedface/blob/main/assets/photo_2023-02-24_22-31-37.jpg)](https://t.me/beingf)</a> 
 
 <h1 align="center">About me</h1>
 <h3>I have been a web developer for more than four years and have more than a year of commercial development, always ready for new projects and interesting orders from all sides, whether front or back</h3> 
